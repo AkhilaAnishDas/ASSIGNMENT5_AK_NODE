@@ -248,7 +248,7 @@ The Home, About and Contact routes were tested in the browser.
 
 **Screenshot:**
 
-![About Route](screenshots/about.png)
+![Basic Route](screenshots/basic-routes.png)
 
 ---
 
