@@ -237,7 +237,8 @@ The server was successfully started using `node server.js`.
 
 **Screenshot:**
 
-`server-running.png`
+
+![Server Running](screenshots/server-running.png)
 
 ---
 
@@ -247,7 +248,7 @@ The Home, About and Contact routes were tested in the browser.
 
 **Screenshot:**
 
-`basic-routes.png`
+![About Route](screenshots/about.png)
 
 ---
 
@@ -263,7 +264,7 @@ http://localhost:3000/user/john
 
 **Screenshot:**
 
-`user-route.png`
+![User Route](screenshots/user-route.png)
 
 ---
 
@@ -277,7 +278,7 @@ http://localhost:3000/product/101/electronics
 
 **Screenshot:**
 
-`product-route.png`
+![Product Route](screenshots/product-route.png)
 
 ---
 
@@ -291,7 +292,8 @@ http://localhost:3000/search?name=john&role=developer
 
 **Screenshot:**
 
-`search-route.png`
+![Search Route](screenshots/search-route.png)
+
 
 ---
 
@@ -301,7 +303,7 @@ The Terminal displays the HTTP method and URL for the requests.
 
 **Screenshot:**
 
-`terminal-logs.png`
+![Terminal Logs](screenshots/terminal-logs.png)
 
 ---
 
